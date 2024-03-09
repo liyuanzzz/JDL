@@ -1,0 +1,11 @@
+Package: JDL
+Type: Package
+Title: Covariance matrix estimation by (joint) diagonal and low-rank
+        decomposition
+Version: 0.1.0
+Author: Liyuan Zheng, Yilei Wu
+Maintainer: Liyuan Zheng <l69zheng@uwaterloo.ca>
+Description: This package contains functions for high-dimensional covariance matrix estimation by joint or individual diagonal and low-rank decomposition with fixed rank or rank penalty.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true

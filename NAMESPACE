@@ -1,0 +1,2 @@
+export(dl_fix,jdl_fix,dl_penalized,jdl_penalized)
+useDynLib(JDL)
